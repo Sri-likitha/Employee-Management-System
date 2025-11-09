@@ -39,7 +39,7 @@ Hence, an automated SQL-based Employee Management System is needed to streamline
 
 ### 💻 *Key SQL Queries*
 
-Some example queries used in the project:
+### Some example queries used in the project:
 	1.	🔢 Count unique employees in the system.
 	2.	🏢 Find departments with the highest number of employees.
 	3.	💰 Calculate average salary per department.
@@ -92,7 +92,7 @@ It enhances HR efficiency, supports data-driven decisions, and ensures transpare
 
 ### 📁 *Repository Structure*
 
-📁 Employee-Management-System
+### 📁 Employee-Management-System
  ┣ 📄 README.md
  ┣ 📄 EmployeeManagementSystem.sql
  ┣ 🧩 ER_Diagram.png

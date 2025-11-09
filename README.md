@@ -6,18 +6,17 @@
   <img src="https://img.shields.io/badge/Focus-Database%20Management%20System-green?style=for-the-badge"/>
 </p>
 
-🧑‍💼 Employee Management System (SQL Project)
+### 🧑‍💼 *Employee Management System (SQL Project)*
 
-📘 Project Overview
+### 📘 *Project Overview*
 
-The Employee Management System is a database-based SQL project designed to efficiently store, manage, and organize employee information.
-It helps organizations handle employee records, attendance, job roles, departments, and salary processing — all in one place.
+- The Employee Management System is a database-based SQL project designed to efficiently store, manage, and organize employee information.
+- It helps organizations handle employee records, attendance, job roles, departments, and salary processing — all in one place.
+- This project aims to automate manual HR processes, reduce redundancy, and ensure data accuracy while enabling faster decision-making through SQL queries and     reports.
 
-This project aims to automate manual HR processes, reduce redundancy, and ensure data accuracy while enabling faster decision-making through SQL queries and reports.
+### 🗂 *Database Design*
 
-🗂 Database Design
-
-🧾 Tables Used
+### 🧾 Tables Used
 	•	🧍‍♂ Employee Table – Stores personal and employment details of employees.
 	•	🏢 Department Table – Manages department names and IDs.
 	•	🧩 Job Department Table – Links job roles to departments.
@@ -28,7 +27,7 @@ This project aims to automate manual HR processes, reduce redundancy, and ensure
 
 ⸻
 
-⚙ Problem Statement
+### ⚙ *Problem Statement*
 	•	🕒 Manual handling of employee data is time-consuming and error-prone.
 	•	📉 Tracking attendance and salary details is difficult without automation.
 	•	🔁 Lack of centralized data causes duplication and inconsistency.
@@ -38,7 +37,7 @@ Hence, an automated SQL-based Employee Management System is needed to streamline
 
 ⸻
 
-💻 Key SQL Queries
+### 💻 *Key SQL Queries*
 
 Some example queries used in the project:
 	1.	🔢 Count unique employees in the system.
@@ -53,7 +52,7 @@ Some example queries used in the project:
 
 ⸻
 
-📊 Key Insights
+### 📊 *Key Insights*
 	•	📍 Some departments have more employees and higher salaries, indicating workload concentration.
 	•	💼 Payroll is efficiently managed, with accurate leave-based deductions.
 	•	🚀 Promotions and qualifications show career growth trends.
@@ -61,7 +60,7 @@ Some example queries used in the project:
 
 ⸻
 
-💡 Recommendations
+### 💡 *Recommendations*
 	•	⚖ Balance teams – redistribute employees between departments.
 	•	💵 Pay smartly – align bonuses and salaries with performance.
 	•	👀 Monitor leaves – identify patterns of stress or workload.
@@ -70,7 +69,7 @@ Some example queries used in the project:
 
 ⸻
 
-🧠 Challenges Faced
+### 🧠 *Challenges Faced*
 	•	🔗 Designing correct table relationships and foreign keys.
 	•	🧱 Maintaining data consistency using cascading updates/deletes.
 	•	🧮 Writing complex joins across multiple tables.
@@ -79,19 +78,19 @@ Some example queries used in the project:
 
 ⸻
 
-✅ Conclusion
+### ✅ *Conclusion*
 
 The SQL-based Employee Management System simplifies employee record management, payroll, and reporting.
 It enhances HR efficiency, supports data-driven decisions, and ensures transparent operations across departments.
 
 ⸻
 
-🛠 Technologies Used
+### 🛠 *Technologies Used*
 	•	🗄 Database: MySQL / SQL Server / Oracle
 	•	🧠 Language: SQL
 	•	⚙ Tools: ER Diagram Tool, SQL Command Line, MS Excel (for analysis)
 
-📁 Repository Structure
+### 📁 *Repository Structure*
 
 📁 Employee-Management-System
  ┣ 📄 README.md
